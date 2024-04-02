@@ -1,0 +1,52 @@
+<html>
+<head>
+<title>Gol pasukan kebangsaan terbanyak di dunia 1985</title>
+<style>
+p {
+  font-size: 25px;
+}
+
+h1 {
+  text-align: center;
+}
+
+p.date {
+  font-size: 50px;
+}
+
+</style>
+</head>
+<body>
+<h1 style="background-color:orange;color:white;">GOL PASUKAN KEBANGSAAN TERBANYAK DI DUNIA 1985</h1>
+<p>Mokhtar Dahari merupakan pemain bola sepak kelahiran Malaysia.</p>
+<p>Beliau telah mendapatkan tempat pertama gol pasukan kebangsaan</p>
+<p>terbanyak di dunia pada tahun 1985.</p>
+<p class="date">Maklumat lebih lanjut</p>
+
+
+
+
+
+
+
+
+
+
+
+ <img src="mokhtardahari.webp" alt="mokhtar dahari" style="width:50%;" align="right">
+
+<p>Dato' Mohamad Mokhtar bin Dahari DSSA DIMP AMN (13 November 1953 – 11 Julai 1991) ialah pemain bola sepak persatuan kebangsaan Malaysia. Beliau merupakan salah seorang pemain terbaik di Asia pada dekad 1970-an dan terkenal sebagai pemain bola sepak terbaik di Malaysia pada masa itu, seorang legenda dalam arena bola sepak negara. Semasa tahun 1970-an, beliau mewakili Malaysia sekaligus menjadi pasukan terhandal dan menewaskan Korea Selatan dan Jepun.
+
+Beliau diberikan jolokan "Supermokh" kerana kehebatannya di atas padang, kekuatan dan keupayaannya menjaringkan gol sepanjang kerjayanya. Antara detik indah Mokhtar ialah apabila beliau berjabat tangan dengan Diego Maradona sebelum perlawanan persahabatan antara Selangor FA dan Boca Juniors. Kata-kata terkenal beliau ialah "Hidup dan Matiku hanyalah untuk Selangor!" dan "Tiap-tiap pemain harus mempunyai semangat yang tinggi dan harus memikirkan yang mereka ini mewakili negara. Dan sekiranya apa terjadi (keputusan teruk) nama negara akan terjejas.".
+
+Mokhtar menjaringkan 177 gol untuk Selangor. Bersama skuad bola sepak kebangsaan Malaysia, Mokhtar beraksi sebanyak 142 perlawanan (138 bertaraf 'A' antarabangsa) dengan menjaringkan 89 gol (85 bertaraf 'A' antarabangsa) dan pernah menjadi penjaring terbanyak dunia. Rekod ini diiktiraf secara rasmi oleh FIFA dan Mokhtar antara sebilangan pemain Malaysia yang disenarai ke dalam 'FIFA Century Club'.</p>
+<nav>
+<ul>
+<p>Balik ke lobby tekan</p>
+<li><a href="amirul punya.html">sini</a></li>
+</ul>
+</nav>
+
+
+</body>
+</html>

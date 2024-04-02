@@ -1,0 +1,46 @@
+<html>
+<head>
+<title>RUANG KOMEN</title>
+<style>
+
+h1 {
+  text-align: center;
+}
+
+p {
+  font-size: 25px;
+}
+
+body {
+  background-image: url('malaysia.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+</style>
+</head>
+<body>
+<h1 style="background-color:orange;color:white;">RUANG KOMEN</h1>
+<p style="color:white;">Apakah pendapat anda?</p>
+<form action="/action_page.php" id="usrform">
+  Nama: <input type="text" name="usrname">
+  <input type="submit">
+</form>
+<br>
+<textarea rows="4" cols="50" name="comment" form="usrform">
+Masukkan komen anda...</textarea>
+
+<nav>
+<ul>
+<p style="color:white;">Balik ke lobby tekan</p>
+<li><a href="amirul punya.html">sini</a></li>
+</ul>
+</nav>
+
+
+
+
+
+</body>
+</html>

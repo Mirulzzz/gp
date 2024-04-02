@@ -1,0 +1,47 @@
+<html>
+<head>
+<title>Puskas award 2016</title>
+<style>
+p {
+  font-size: 25px;
+}
+
+h1 {
+  text-align: center;
+}
+
+p.date {
+  font-size: 50px;
+}
+
+</style>
+</head>
+<body>
+<h1 style="background-color:orange;color:white;">PUSKAS AWARD 2016</h1>
+<p>Faiz Subri merupakan pemain bola sepak kelahiran Malaysia.</p>
+<p>Beliau telah mendapatkan anugerah Puskas Award pada tahun 2016.</p>
+<p>Beliau merupakan pemain bola sepak Malaysia dan Asia pertama yang mendapatkan Puskas Award.</p>
+<p class="date">Maklumat lebih lanjut</p>
+
+
+
+
+
+
+
+
+
+
+
+ <img src="faizsubri.jpg" alt="faiz subri" style="width:50%;" align="right">
+<p>Mohd Faiz Subri, ASK, (lahir pada 8 November 1987) merupakan pemain bola sepak Malaysia yang beraksi bersama Penang F.C. sebagai pemain tengah atau penyerang. Mohd Faiz merupakan pemain bola sepak pertama dari Benua Asia yang memenangi Anugerah Puskás FIFA 2016 yang mana diumumkan oleh Persekutuan Persatuan Bola Sepak Antarabangsa (FIFA) dalam majlis anugerah yang berlangsung di Zurich, Switzerland.</p>
+<nav>
+<ul>
+<p>Balik ke senarai tekan</p>
+<li><a href="Bola Sepak (amirul punya).html">sini</a></li>
+</ul>
+</nav>
+
+
+</body>
+</html>

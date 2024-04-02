@@ -1,0 +1,44 @@
+<html>
+<head>
+<title>SENARAI PENCAPAIAN</title>
+<style>
+p {
+  font-size: 25px;
+}
+
+h1 {
+  text-align: center;
+}
+
+body {
+  background-image: url('ligaM.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+</style>
+</head>
+<body>
+<h1 style="background-color:orange;color:white;">SENARAI PENCAPAIAN</h1>
+
+<nav>
+<ul>
+<p style="color:white;">Pencapaian</p>
+<li><a href="Gol terbanyak (amirul punya).html">Gol pasukan kebangsaan terbanyak di dunia 1985</a></li>
+<li><a href="Puskas award (amirul punya).html">Puskas award 2016</a></li>
+<li><a href="AFC Cup (amirul punya).html">Juara AFC Cup 2015</a></li>
+<li><a href="Juara AFF (amirul punya).html">Juara AFF Championship 2010</a></li>
+<li><a href="Kedudukkan tertinggi FIFA (amirul punya).html">Kedudukan tertinggi FIFA 75 1993</a></li>
+</ul>
+</nav>
+
+<nav>
+<ul>
+<p style="color:white;">Balik ke lobby tekan</p>
+<li><a href="amirul punya.html">sini</a></li>
+</ul>
+</nav>
+
+</body>
+</html>

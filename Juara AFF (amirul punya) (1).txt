@@ -1,0 +1,54 @@
+<html>
+<head>
+<title>Juara AFF championship 2010</title>
+<style>
+p {
+  font-size: 25px;
+}
+
+h1 {
+  text-align: center;
+}
+
+p.date {
+  font-size: 50px;
+}
+
+</style>
+</head>
+<body>
+<h1 style="background-color:orange;color:white;">JUARA AFF CHAMPIONSHIP 2010</h1>
+<p>Pada tahun 2010, Malaysia telah memenangi kejuaraan AFF Championship yang dianjurkan</p>
+<p>oleh ASEAN Football Federation. Ia merupakan kali pertama Malaysia memenangi kejuaraan</p>
+<p>tersebut.</p>
+<p class="date">Maklumat lebih lanjut</p>
+
+
+
+
+
+
+
+
+
+
+
+ <img src="aff.jpg" alt="juara aff" style="width:50%;" align="right">
+
+<p>Kejohanan Bola Sepak ASEAN 2010 juga dikenali sebagai Piala Suzuki AFF 2010 merupakan edisi kelapan Kejohanan Bola Sepak ASEAN. Suzuki meneruskan tajaan mereka untuk kejohanan rantau ASEAN, diadakan pada 1 hingga 29 Disember 2010.
+
+Indonesia dan Vietnam menjadi tuan rumah pada pusingan awal bermula dari 1 hingga 7 Disember bagi Kumpulan A dan 2 hingga 8 Disember bagi Kumpulan B. Pusingan separuh akhir dimainkan secara timbal balik (tuan rumah dan lawan) dengan perlawanan bermula pada 15 dan 16 Disember 2010, dan perlawanan kedua pada 18 dan 19 Disember 2010. Perlawanan akhir dimainkan secara timbal balik juga iaitu akhir pada 26 Disember 2010 dan 29 Disember 2010, di antara tuan rumah Indonesia dan Malaysia.
+
+Pada peringkat separuh akhir kejohanan, pasukan Filipina, Indonesia, Malaysia dan penyandang juara lalu, Vietnam mara ke separuh akhir. Bagi Filipina, ia merupakan kali pertama Filipina layak ke separuh akhir di bawah bimbingan Simon McMenemy.
+
+Seterusnya, Malaysia layak ke perlawanan akhir buat pertama kali selepas 14 tahun, manakala Indonesia pula muncul di perlawanan akhir buat kali keempat. Akhirnya, Malaysia berjaya memenangi kejuaraan pertama mereka dengan menewaskan Indonesia.</p>
+<nav>
+<ul>
+<p>Balik ke senarai tekan</p>
+<li><a href="Bola Sepak (amirul punya).html">sini</a></li>
+</ul>
+</nav>
+
+
+</body>
+</html>

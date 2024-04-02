@@ -1,0 +1,82 @@
+<html>
+<head>
+<title> PENCAPAIAN MALAYSIA DALAM DUNIA BOLA SEPAK </title>
+<style>
+marquee {
+  font-size: 40px;
+}
+
+p {
+  font-size: 25px;
+}
+
+p.date {
+    text-align: center;
+}
+
+p.date {
+  font-size: 30px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+body {
+  background-image: url('ligaM.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+body {
+  background-image: url('snbj.webp');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+</style>
+</head>
+<body>
+<marquee style="color:white;">PENCAPAIAN MALAYSIA DALAM DUNIA BOLA SEPAK</marquee>
+<hr style="height:10px;border-width:4;color:red;background-color:orange">
+
+<style>
+.vl {
+  border-left: 10px solid orange;
+  height: 900px;
+  position: absolute;
+  left: 14%;
+  margin-left: -3px;
+  top: 70;
+}
+</style>
+<h1 style="color:white;">SELAMAT DATANG KE LAMAN WEB SAYA</h1>
+<div class="vl"></div>
+<p class="date" style="color:white;">Terdapat pelbagai pencapaian yang dicapai oleh Malaysia dalam dunia bola sepak</p>
+<p class="date" style="color:white;">hasil dari bakat insan-insan kelahiran Malaysia yang mewakili negara</p>
+<nav>
+<ul>
+<p style="color:white;">Pencapaian</p>
+<li><a href="Bola Sepak (amirul punya).html">Senarai Pencapaian</a></li>
+<p style="color:white;">Ruang komen</p>
+<li><a href="Ruang Komen (amirul punya).html">Ruang Komen</a></li>
+</ul>
+</nav>
+
+ <img src="bolasepak.webp" alt="bolasepak" style="width:50%;">
+
+
+
+
+
+
+</body>
+<html>

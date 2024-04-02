@@ -1,0 +1,52 @@
+<html>
+<head>
+<title>Juara AFC Cup 2015</title>
+<style>
+p {
+  font-size: 25px;
+}
+
+h1 {
+  text-align: center;
+}
+
+p.date {
+  font-size: 50px;
+}
+
+</style>
+</head>
+<body>
+<h1 style="background-color:orange;color:white;">JUARA AFC CUP 2015</h1>
+<p>Pada tahun 2015, pasukan bola sepak Johor Darul Ta'zim telah memasuki pertandingan AFC Cup.</p>
+<p>JDT telah memenangi pertandingan tersebut dan digelar juara AFC Cup 2015.</p>
+<p>Pasukan JDT merupakan pasukan bola sepak Malaysia pertama yang memenangi AFC cup.</p>
+<p class="date">Maklumat lebih lanjut</p>
+
+
+
+
+
+
+
+
+
+
+
+ <img src="afccup.jpg" alt="mokhtar dahari" style="width:50%;" align="right">
+
+<p>Johor Darul Ta'zim F.C. or simply JDT is a professional football club based in Johor Bahru, Johor, Malaysia that competes in the Malaysia Super League, the top tier of Malaysian football. Founded in 1972 as PKENJ FC, the club renamed as Johor FC in 1996, before adopting its current name in 2013.[4] Johor Darul Ta'zim is owned by Tunku Ismail Idris, the Crown Prince of Johor.
+
+In 2014, JDT won its first major honour by winning the national league during the first season under Croatian manager Bojan Hodak. Under Argentine Mario Gómez's tutelage, they won both the 2015 AFC Cup and the 2015 Super League. By winning the AFC Cup, JDT became the second Malaysian team since 1967 to enter the final of a major continental competition, and the first ever Malaysian club to win a continental title. Between 2014 and 2023, JDT won ten consecutive league titles. Before this achievement, no Malaysian team had ever won the league championship more than twice in a row since the league system was first introduced in Malaysia in 1982.
+
+Since 2012, JDT are known by their new nickname, the Southern Tigers (Malay: Harimau Selatan), replacing the old nickname Jengking (Scorpion). The new nickname is based on the Johor State Council's coat of arms.[5] The team's home ground is the 40,000 capacity Sultan Ibrahim Stadium.</p>
+<nav>
+<ul>
+<p>Balik ke senarai tekan</p>
+<li><a href="Bola Sepak (amirul punya).html">sini</a></li>
+</ul>
+</nav>
+
+
+</body>
+</html>

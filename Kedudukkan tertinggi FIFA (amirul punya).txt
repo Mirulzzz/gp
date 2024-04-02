@@ -1,0 +1,48 @@
+<html>
+<head>
+<title>Kedudukan tertinggi FIFA 75 1993</title>
+<style>
+p {
+  font-size: 25px;
+}
+
+h1 {
+  text-align: center;
+}
+
+p.date {
+  font-size: 50px;
+}
+
+</style>
+</head>
+<body>
+<h1 style="background-color:orange;color:white;">KEDUDUKAN TERTINGGI FIFA 75 1993</h1>
+<p>Pada tahun 1993, pasukan bola sepak Malaysia telah mencapai era kegemilangannya</p>
+<p>dimana pasukan Malaysia telah mendapatkan tempat ke-75 di dalam ranking FIFA.</p>
+<p>Ia merupakan kedudukan tertinggi pasukan Malaysia dari 1993 hinggi sekarang.</p>
+<p class="date">Maklumat lebih lanjut</p>
+
+
+
+
+
+
+
+
+
+
+
+ <img src="1993.webp" alt="malaysia 1993" style="width:50%;" align="right">
+
+<p>Nama jolokan Harimau Malaya telah digunakan oleh pasukan terdahulu iaitu pasukan bola sepak kebangsaan Tanah Melayu. Nama panggilan itu merujuk kepada haiwan kebangsaan Malaysia, harimau Malaya. Satu lagi sumber menyatakan nama itu dipercayai berasal daripada pemain bola sepak Tanah Melayu dari Stulang Laut, Johor bernama Abdullah Mohd Don (Dollah Don) selepas beliau digelar "Harimau Malaya" oleh bapa pengasas Indonesia, Sukarno apabila berjaya menyamakan kedudukan menentang kelab bola sepak Indonesia dengan menjaringkan hatrik dalam perlawanan antara Kelab Melayu Singapura dan Peseja (Persija Jakarta) pada 1953 selepas ketinggalan 3 gol di belakang mereka. Walaupun Persekutuan Malaysia ditubuhkan pada 16 September 1963, nama jolokan itu masih digunakan oleh skuad kebangsaan, sekali gus mencetuskan beberapa perdebatan sama ada ia wajar kerana kebanyakan rakyat Malaysia di Timur merasakan istilah "Malaya" tidak meliputi seluruh negara. Beberapa penyokong di Timur berasa tersinggung apabila media di Malaysia Barat terus menggunakan istilah itu dan menolak kebimbangan mereka. Beberapa parti di Barat malah secara tidak sensitif mengatakan bahawa ia hanyalah perkara kecil dan isu penamaan telah dipolitikkan kerana istilah "harimau Malaya" datang daripada subspesies harimau endemik yang terancam di Semenanjung Tanah Melayu dan bukannya alasan geopolitik.</p>
+<nav>
+<ul>
+<p>Balik ke senarai tekan</p>
+<li><a href="Bola Sepak (amirul punya).html">sini</a></li>
+</ul>
+</nav>
+
+
+</body>
+</html>
